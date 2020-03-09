@@ -1,0 +1,518 @@
+2020-03-02 10:53:59.2017 Info Message Template Auto Format enabled
+2020-03-02 10:53:59.3064 Info Adding target FileTarget(Name=allfile)
+2020-03-02 10:53:59.3437 Info Found 20 configuration items
+2020-03-02 10:53:59.3601 Info Configuration initialized.
+2020-03-02 10:53:59.3601 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 10:54:58.8585 Info Message Template Auto Format enabled
+2020-03-02 10:54:58.9243 Info Adding target FileTarget(Name=allfile)
+2020-03-02 10:54:58.9620 Info Found 20 configuration items
+2020-03-02 10:54:58.9776 Info Configuration initialized.
+2020-03-02 10:54:58.9776 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:31:52.8370 Info Message Template Auto Format enabled
+2020-03-02 11:31:52.9123 Info Adding target FileTarget(Name=allfile)
+2020-03-02 11:31:52.9674 Info Found 20 configuration items
+2020-03-02 11:31:52.9837 Info Configuration initialized.
+2020-03-02 11:31:52.9894 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:35:37.1449 Info Message Template Auto Format enabled
+2020-03-02 11:35:37.2195 Info Adding target FileTarget(Name=allfile)
+2020-03-02 11:35:37.2552 Info Found 20 configuration items
+2020-03-02 11:35:37.2733 Info Configuration initialized.
+2020-03-02 11:35:37.2733 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:37:31.0267 Info Message Template Auto Format enabled
+2020-03-02 11:37:31.0954 Info Adding target FileTarget(Name=allfile)
+2020-03-02 11:37:31.1366 Info Found 20 configuration items
+2020-03-02 11:37:31.1509 Info Configuration initialized.
+2020-03-02 11:37:31.1616 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:37:58.5729 Info Message Template Auto Format enabled
+2020-03-02 11:37:58.6557 Info Adding target FileTarget(Name=allfile)
+2020-03-02 11:37:58.6998 Info Found 20 configuration items
+2020-03-02 11:37:58.7184 Info Configuration initialized.
+2020-03-02 11:37:58.7242 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:54:34.6449 Info Message Template Auto Format enabled
+2020-03-02 11:54:34.7480 Info Adding target FileTarget(Name=allfile)
+2020-03-02 11:54:34.7950 Info Found 20 configuration items
+2020-03-02 11:54:34.8165 Info Configuration initialized.
+2020-03-02 11:54:34.8165 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 11:56:02.1006 Info AppDomain Shutting down. Logger closing...
+2020-03-02 11:56:02.1204 Info Logger has been shut down.
+2020-03-02 12:50:27.9038 Info Message Template Auto Format enabled
+2020-03-02 12:50:27.9748 Info Adding target FileTarget(Name=allfile)
+2020-03-02 12:50:28.0096 Info Found 20 configuration items
+2020-03-02 12:50:28.0256 Info Configuration initialized.
+2020-03-02 12:50:28.0314 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 13:28:39.2568 Info Message Template Auto Format enabled
+2020-03-02 13:28:39.3259 Info Adding target FileTarget(Name=allfile)
+2020-03-02 13:28:39.3572 Info Found 20 configuration items
+2020-03-02 13:28:39.3755 Info Configuration initialized.
+2020-03-02 13:28:39.3755 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 13:35:08.4512 Info Message Template Auto Format enabled
+2020-03-02 13:35:08.5215 Info Adding target FileTarget(Name=allfile)
+2020-03-02 13:35:08.5506 Info Found 20 configuration items
+2020-03-02 13:35:08.5636 Info Configuration initialized.
+2020-03-02 13:35:08.5636 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 13:39:05.6552 Info Message Template Auto Format enabled
+2020-03-02 13:39:05.7226 Info Adding target FileTarget(Name=allfile)
+2020-03-02 13:39:05.7550 Info Found 20 configuration items
+2020-03-02 13:39:05.7698 Info Configuration initialized.
+2020-03-02 13:39:05.7698 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 14:10:50.9171 Info Message Template Auto Format enabled
+2020-03-02 14:10:50.9987 Info Adding target FileTarget(Name=allfile)
+2020-03-02 14:10:51.0397 Info Found 20 configuration items
+2020-03-02 14:10:51.0573 Info Configuration initialized.
+2020-03-02 14:10:51.0633 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 14:12:21.2362 Info AppDomain Shutting down. Logger closing...
+2020-03-02 14:12:21.2513 Info Logger has been shut down.
+2020-03-02 14:28:20.4652 Info Message Template Auto Format enabled
+2020-03-02 14:28:20.5401 Info Adding target FileTarget(Name=allfile)
+2020-03-02 14:28:20.5715 Info Found 20 configuration items
+2020-03-02 14:28:20.5846 Info Configuration initialized.
+2020-03-02 14:28:20.5846 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 14:34:00.6934 Info Message Template Auto Format enabled
+2020-03-02 14:34:00.7894 Info Adding target FileTarget(Name=allfile)
+2020-03-02 14:34:00.8252 Info Found 20 configuration items
+2020-03-02 14:34:00.8404 Info Configuration initialized.
+2020-03-02 14:34:00.8484 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 14:38:21.8877 Info Message Template Auto Format enabled
+2020-03-02 14:38:21.9678 Info Adding target FileTarget(Name=allfile)
+2020-03-02 14:38:22.0031 Info Found 20 configuration items
+2020-03-02 14:38:22.0191 Info Configuration initialized.
+2020-03-02 14:38:22.0191 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:08:03.9713 Info Message Template Auto Format enabled
+2020-03-02 15:08:04.0470 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:08:04.0820 Info Found 20 configuration items
+2020-03-02 15:08:04.1006 Info Configuration initialized.
+2020-03-02 15:08:04.1006 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:09:09.4981 Info Message Template Auto Format enabled
+2020-03-02 15:09:09.5914 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:09:09.6367 Info Found 20 configuration items
+2020-03-02 15:09:09.6566 Info Configuration initialized.
+2020-03-02 15:09:09.6566 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:11:15.4204 Info Message Template Auto Format enabled
+2020-03-02 15:11:15.4921 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:11:15.5234 Info Found 20 configuration items
+2020-03-02 15:11:15.5383 Info Configuration initialized.
+2020-03-02 15:11:15.5383 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:21:54.5809 Info Message Template Auto Format enabled
+2020-03-02 15:21:54.6435 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:21:54.6730 Info Found 20 configuration items
+2020-03-02 15:21:54.6875 Info Configuration initialized.
+2020-03-02 15:21:54.6875 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:24:30.5442 Info Message Template Auto Format enabled
+2020-03-02 15:24:30.6192 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:24:30.6558 Info Found 20 configuration items
+2020-03-02 15:24:30.6761 Info Configuration initialized.
+2020-03-02 15:24:30.6761 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 15:27:06.0540 Info Message Template Auto Format enabled
+2020-03-02 15:27:06.1205 Info Adding target FileTarget(Name=allfile)
+2020-03-02 15:27:06.1509 Info Found 20 configuration items
+2020-03-02 15:27:06.1646 Info Configuration initialized.
+2020-03-02 15:27:06.1646 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 16:49:10.0836 Info Message Template Auto Format enabled
+2020-03-02 16:49:10.1610 Info Adding target FileTarget(Name=allfile)
+2020-03-02 16:49:10.2119 Info Found 20 configuration items
+2020-03-02 16:49:10.2269 Info Configuration initialized.
+2020-03-02 16:49:10.2269 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-02 18:27:28.4116 Info Message Template Auto Format enabled
+2020-03-02 18:27:28.4759 Info Adding target FileTarget(Name=allfile)
+2020-03-02 18:27:28.5095 Info Found 20 configuration items
+2020-03-02 18:27:28.5253 Info Configuration initialized.
+2020-03-02 18:27:28.5253 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 09:53:15.6948 Info Message Template Auto Format enabled
+2020-03-03 09:53:15.7822 Info Adding target FileTarget(Name=allfile)
+2020-03-03 09:53:15.8111 Info Found 20 configuration items
+2020-03-03 09:53:15.8250 Info Configuration initialized.
+2020-03-03 09:53:15.8309 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 10:00:03.8002 Info Message Template Auto Format enabled
+2020-03-03 10:00:03.8898 Info Adding target FileTarget(Name=allfile)
+2020-03-03 10:00:03.9232 Info Found 20 configuration items
+2020-03-03 10:00:03.9392 Info Configuration initialized.
+2020-03-03 10:00:03.9392 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 10:21:06.6129 Info Message Template Auto Format enabled
+2020-03-03 10:21:06.6627 Info Adding target FileTarget(Name=allfile)
+2020-03-03 10:21:06.6954 Info Found 20 configuration items
+2020-03-03 10:21:06.7103 Info Configuration initialized.
+2020-03-03 10:21:06.7103 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 10:40:47.9582 Info Message Template Auto Format enabled
+2020-03-03 10:40:48.0078 Info Adding target FileTarget(Name=allfile)
+2020-03-03 10:40:48.0363 Info Found 20 configuration items
+2020-03-03 10:40:48.0522 Info Configuration initialized.
+2020-03-03 10:40:48.0522 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 10:56:34.5641 Info Message Template Auto Format enabled
+2020-03-03 10:56:34.6172 Info Adding target FileTarget(Name=allfile)
+2020-03-03 10:56:34.6494 Info Found 20 configuration items
+2020-03-03 10:56:34.6659 Info Configuration initialized.
+2020-03-03 10:56:34.6715 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 10:59:14.5169 Info Message Template Auto Format enabled
+2020-03-03 10:59:14.5684 Info Adding target FileTarget(Name=allfile)
+2020-03-03 10:59:14.6004 Info Found 20 configuration items
+2020-03-03 10:59:14.6152 Info Configuration initialized.
+2020-03-03 10:59:14.6152 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:00:23.0529 Info Message Template Auto Format enabled
+2020-03-03 11:00:23.1040 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:00:23.1682 Info Found 20 configuration items
+2020-03-03 11:00:23.1845 Info Configuration initialized.
+2020-03-03 11:00:23.1923 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:12:22.7132 Info Message Template Auto Format enabled
+2020-03-03 11:12:22.7708 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:12:22.8040 Info Found 20 configuration items
+2020-03-03 11:12:22.8192 Info Configuration initialized.
+2020-03-03 11:12:22.8192 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:21:10.5856 Info Message Template Auto Format enabled
+2020-03-03 11:21:10.6471 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:21:10.6831 Info Found 20 configuration items
+2020-03-03 11:21:10.7008 Info Configuration initialized.
+2020-03-03 11:21:10.7070 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:31:25.0545 Info Message Template Auto Format enabled
+2020-03-03 11:31:25.1168 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:31:25.1523 Info Found 20 configuration items
+2020-03-03 11:31:25.1679 Info Configuration initialized.
+2020-03-03 11:31:25.1736 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:51:46.5289 Info Message Template Auto Format enabled
+2020-03-03 11:51:46.5852 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:51:46.6177 Info Found 20 configuration items
+2020-03-03 11:51:46.6355 Info Configuration initialized.
+2020-03-03 11:51:46.6421 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 11:55:51.1887 Info Message Template Auto Format enabled
+2020-03-03 11:55:51.2396 Info Adding target FileTarget(Name=allfile)
+2020-03-03 11:55:51.2737 Info Found 20 configuration items
+2020-03-03 11:55:51.2883 Info Configuration initialized.
+2020-03-03 11:55:51.2883 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 16:14:32.7312 Info Message Template Auto Format enabled
+2020-03-03 16:14:32.7807 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:14:32.8090 Info Found 20 configuration items
+2020-03-03 16:14:32.8236 Info Configuration initialized.
+2020-03-03 16:14:32.8292 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2020-03-03 16:19:45.2967 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:19:45.3158 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:19:45.3335 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:19:45.3500 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:19:45.3500 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:19:45.3636 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:19:45.3636 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:19:45.3800 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:19:45.3906 Info Message Template Auto Format enabled
+2020-03-03 16:19:45.4519 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:19:45.4958 Info Found 20 configuration items
+2020-03-03 16:22:41.7113 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:22:41.7297 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:22:41.7484 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:22:41.7588 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:22:41.7665 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:22:41.7665 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:22:41.7815 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:22:41.7815 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:22:41.8000 Info Message Template Auto Format enabled
+2020-03-03 16:22:41.8543 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:22:41.8910 Info Found 20 configuration items
+2020-03-03 16:27:09.6295 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:27:09.6473 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:27:09.6738 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:27:09.6914 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:27:09.6914 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:27:09.7036 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:27:09.7036 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:27:09.7197 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:27:09.7197 Info Message Template Auto Format enabled
+2020-03-03 16:27:09.7864 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:27:09.8206 Info Found 20 configuration items
+2020-03-03 16:31:38.7529 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:31:38.7692 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:31:38.7903 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:31:38.8006 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:31:38.8006 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:31:38.8145 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:31:38.8145 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:31:38.8326 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:31:38.8433 Info Message Template Auto Format enabled
+2020-03-03 16:31:38.9062 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:31:38.9399 Info Found 20 configuration items
+2020-03-03 16:35:19.8414 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:35:19.8602 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:35:19.8961 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:35:19.8961 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:35:19.9134 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:35:19.9250 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:35:19.9250 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:35:19.9449 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:35:19.9542 Info Message Template Auto Format enabled
+2020-03-03 16:35:20.0249 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:35:20.0649 Info Found 20 configuration items
+2020-03-03 16:35:51.6307 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:35:51.6482 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:35:51.6727 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:35:51.6727 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:35:51.6888 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:35:51.6888 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:35:51.6888 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:35:51.7110 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:35:51.7214 Info Message Template Auto Format enabled
+2020-03-03 16:35:51.7785 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:35:51.8176 Info Found 20 configuration items
+2020-03-03 16:37:06.2236 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:37:06.2445 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:37:06.2624 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:37:06.2850 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:37:06.2850 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:37:06.3018 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:37:06.3018 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:37:06.3191 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:37:06.3297 Info Message Template Auto Format enabled
+2020-03-03 16:37:06.3887 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:37:06.4308 Info Found 20 configuration items
+2020-03-03 16:37:53.2642 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:37:53.2836 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:37:53.3128 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:37:53.3348 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:37:53.3458 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:37:53.3458 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:37:53.3666 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:37:53.3821 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:37:53.3940 Info Message Template Auto Format enabled
+2020-03-03 16:37:53.4628 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:37:53.5096 Info Found 20 configuration items
+2020-03-03 16:39:04.9698 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:39:04.9973 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:39:05.0159 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:39:05.0159 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:39:05.0346 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:39:05.0346 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:39:05.0491 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:39:05.0491 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:39:05.0658 Info Message Template Auto Format enabled
+2020-03-03 16:39:05.1278 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:39:05.1646 Info Found 20 configuration items
+2020-03-03 16:40:03.3090 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:40:03.3278 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:40:03.3486 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:40:03.3607 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:40:03.3607 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:40:03.3781 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:40:03.3781 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:40:03.4006 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:40:03.4122 Info Message Template Auto Format enabled
+2020-03-03 16:40:03.4749 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:40:03.5158 Info Found 20 configuration items
+2020-03-03 16:44:13.9473 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:44:13.9661 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:44:13.9810 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:44:13.9882 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:44:13.9882 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:44:13.9882 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:44:14.0067 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:44:14.0067 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:44:14.0232 Info Message Template Auto Format enabled
+2020-03-03 16:44:14.0788 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:44:14.1173 Info Found 20 configuration items
+2020-03-03 16:54:10.0922 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:54:10.1117 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:54:10.1298 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:54:10.1298 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:54:10.1457 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:54:10.1457 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:54:10.1592 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:54:10.1592 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:54:10.1764 Info Message Template Auto Format enabled
+2020-03-03 16:54:10.2321 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:54:10.2637 Info Found 20 configuration items
+2020-03-03 16:55:25.5381 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:55:25.5566 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:55:25.5765 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:55:25.5956 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:55:25.5956 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:55:25.6157 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:55:25.6250 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:55:25.6250 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:55:25.6462 Info Message Template Auto Format enabled
+2020-03-03 16:55:25.7074 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:55:25.7506 Info Found 20 configuration items
+2020-03-03 16:55:45.2314 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:55:45.2500 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 16:55:45.2772 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 16:55:45.2966 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 16:55:45.2966 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:55:45.3137 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 16:55:45.3137 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 16:55:45.3313 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 16:55:45.3313 Info Message Template Auto Format enabled
+2020-03-03 16:55:45.3982 Info Adding target FileTarget(Name=allfile)
+2020-03-03 16:55:45.4380 Info Found 20 configuration items
+2020-03-03 16:57:00.9893 Info AppDomain Shutting down. Logger closing...
+2020-03-03 16:57:01.0106 Info Logger has been shut down.
+2020-03-03 17:03:53.5231 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:03:53.5420 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:03:53.5635 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:03:53.5635 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:03:53.5824 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:03:53.5824 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:03:53.5995 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:03:53.5995 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:03:53.6196 Info Message Template Auto Format enabled
+2020-03-03 17:03:53.6727 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:03:53.7106 Info Found 20 configuration items
+2020-03-03 17:04:46.3682 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:04:46.3918 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:04:46.4083 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:04:46.4353 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:04:46.4437 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:04:46.4437 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:04:46.4593 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:04:46.4593 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:04:46.4742 Info Message Template Auto Format enabled
+2020-03-03 17:04:46.5254 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:04:46.5635 Info Found 20 configuration items
+2020-03-03 17:05:22.9214 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:05:22.9424 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:05:22.9587 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:05:22.9587 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:05:22.9745 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:05:22.9745 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:05:22.9889 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:05:22.9889 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:05:23.0057 Info Message Template Auto Format enabled
+2020-03-03 17:05:23.0549 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:05:23.0870 Info Found 20 configuration items
+2020-03-03 17:06:48.3281 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:06:48.3630 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:06:48.3821 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:06:48.3928 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:06:48.3928 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:06:48.3928 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:06:48.4124 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:06:48.4124 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:06:48.4281 Info Message Template Auto Format enabled
+2020-03-03 17:06:48.4850 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:06:48.5218 Info Found 20 configuration items
+2020-03-03 17:07:43.7441 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:07:43.7587 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:07:43.7795 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:07:43.8081 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:07:43.8149 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:07:43.8149 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:07:43.8315 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:07:43.8315 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:07:43.8495 Info Message Template Auto Format enabled
+2020-03-03 17:07:43.9022 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:07:43.9334 Info Found 20 configuration items
+2020-03-03 17:11:27.2563 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:11:27.2884 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:11:27.3103 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:11:27.3179 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:11:27.3275 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:11:27.3275 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:11:27.3440 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:11:27.3440 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:11:27.3625 Info Message Template Auto Format enabled
+2020-03-03 17:11:27.4189 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:11:27.4623 Info Found 20 configuration items
+2020-03-03 17:12:10.1317 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:12:10.1500 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:12:10.1693 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:12:10.1798 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:12:10.1883 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:12:10.1883 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:12:10.2041 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:12:10.2041 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:12:10.2261 Info Message Template Auto Format enabled
+2020-03-03 17:12:10.2906 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:12:10.3330 Info Found 20 configuration items
+2020-03-03 17:31:30.2407 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:31:30.2606 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:31:30.2799 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:31:30.2888 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:31:30.2888 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:31:30.3030 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:31:30.3030 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:31:30.3199 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:31:30.3199 Info Message Template Auto Format enabled
+2020-03-03 17:31:30.3923 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:31:30.4324 Info Found 20 configuration items
+2020-03-03 17:33:36.6743 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:33:36.6977 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:33:36.7192 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:33:36.7446 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:33:36.7532 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:33:36.7532 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:33:36.7678 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:33:36.7678 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:33:36.7876 Info Message Template Auto Format enabled
+2020-03-03 17:33:36.8459 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:33:36.8846 Info Found 20 configuration items
+2020-03-03 17:53:47.1689 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:53:47.1953 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:53:47.2139 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:53:47.2228 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:53:47.2228 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:53:47.2363 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:53:47.2363 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:53:47.2514 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:53:47.2514 Info Message Template Auto Format enabled
+2020-03-03 17:53:47.3162 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:53:47.3548 Info Found 20 configuration items
+2020-03-03 17:55:17.7289 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:55:17.7494 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:55:17.7664 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:55:17.7664 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:55:17.7815 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:55:17.7815 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:55:17.7815 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:55:17.8045 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:55:17.8134 Info Message Template Auto Format enabled
+2020-03-03 17:55:17.8673 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:55:17.9013 Info Found 20 configuration items
+2020-03-03 17:57:59.4627 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:57:59.4898 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 17:57:59.5077 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 17:57:59.5161 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 17:57:59.5161 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:57:59.5346 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 17:57:59.5346 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 17:57:59.5527 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 17:57:59.5629 Info Message Template Auto Format enabled
+2020-03-03 17:57:59.6222 Info Adding target FileTarget(Name=allfile)
+2020-03-03 17:57:59.6682 Info Found 20 configuration items
+2020-03-03 18:00:03.7351 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 18:00:03.7617 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 18:00:03.7817 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 18:00:03.7817 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 18:00:03.7988 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 18:00:03.7988 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 18:00:03.8162 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 18:00:03.8162 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 18:00:03.8340 Info Message Template Auto Format enabled
+2020-03-03 18:00:03.8907 Info Adding target FileTarget(Name=allfile)
+2020-03-03 18:00:03.9270 Info Found 20 configuration items
+2020-03-03 18:02:49.0860 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 18:02:49.1080 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-03 18:02:49.1256 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-03 18:02:49.1256 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-03 18:02:49.1420 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 18:02:49.1420 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-03 18:02:49.1565 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-03 18:02:49.1565 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-03 18:02:49.1741 Info Message Template Auto Format enabled
+2020-03-03 18:02:49.2329 Info Adding target FileTarget(Name=allfile)
+2020-03-03 18:02:49.2681 Info Found 20 configuration items
+2020-03-04 10:45:06.7471 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-04 10:45:06.7808 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-04 10:45:06.8145 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-04 10:45:06.8145 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-04 10:45:06.8145 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-04 10:45:06.8344 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-04 10:45:06.8344 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-04 10:45:06.8468 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-04 10:45:06.8468 Info Message Template Auto Format enabled
+2020-03-04 10:45:06.9045 Info Adding target FileTarget(Name=allfile)
+2020-03-04 10:45:06.9377 Info Found 20 configuration items
+2020-03-05 09:49:08.3002 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-05 09:49:08.3386 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-03-05 09:49:08.3714 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.0.1196. Product version: 1.6.0.
+2020-03-05 09:49:08.3777 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-03-05 09:49:08.3777 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-05 09:49:08.3777 Info Loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+2020-03-05 09:49:08.3951 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.9.0.1511. Product version: 4.9.0.
+2020-03-05 09:49:08.3951 Info Auto loading assembly file: D:\Projects\TelegramJiraBot\TelgramJiraBot\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll succeeded!
+2020-03-05 09:49:08.4087 Info Message Template Auto Format enabled
+2020-03-05 09:49:08.4551 Info Adding target FileTarget(Name=allfile)
+2020-03-05 09:49:08.4850 Info Found 20 configuration items
+2020-03-05 09:49:09.2998 Info AppDomain Shutting down. Logger closing...
+2020-03-05 09:49:09.3436 Info Logger has been shut down.

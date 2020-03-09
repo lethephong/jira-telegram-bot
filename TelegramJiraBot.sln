@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JiraMessage", "JiraMessage\JiraMessage.csproj", "{1AAFB9B6-CF6A-4DED-B929-1437CE8CF50B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotMessage", "BotMessage\BotMessage.csproj", "{E79C2224-BE59-400C-B382-8B3BC48A041F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelegramJiraBot", "TelgramJiraBot\TelegramJiraBot.csproj", "{A503817F-EC19-4A12-A24E-C2F44A6AB249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestJiraMessage", "XUnitTestJiraMessage\XUnitTestJiraMessage.csproj", "{30E4E176-19B2-4686-94B0-DB6D125CDE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAFB9B6-CF6A-4DED-B929-1437CE8CF50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAFB9B6-CF6A-4DED-B929-1437CE8CF50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAFB9B6-CF6A-4DED-B929-1437CE8CF50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAFB9B6-CF6A-4DED-B929-1437CE8CF50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79C2224-BE59-400C-B382-8B3BC48A041F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79C2224-BE59-400C-B382-8B3BC48A041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79C2224-BE59-400C-B382-8B3BC48A041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79C2224-BE59-400C-B382-8B3BC48A041F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A503817F-EC19-4A12-A24E-C2F44A6AB249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A503817F-EC19-4A12-A24E-C2F44A6AB249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A503817F-EC19-4A12-A24E-C2F44A6AB249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A503817F-EC19-4A12-A24E-C2F44A6AB249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E4E176-19B2-4686-94B0-DB6D125CDE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E4E176-19B2-4686-94B0-DB6D125CDE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E4E176-19B2-4686-94B0-DB6D125CDE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E4E176-19B2-4686-94B0-DB6D125CDE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF94B030-1928-4B28-9825-65F9A2B0853D}
+	EndGlobalSection
+EndGlobal

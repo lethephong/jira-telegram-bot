@@ -1,0 +1,161 @@
+﻿{
+  "timestamp": 1583321164574,
+  "webhookEvent": "jira:issue_created",
+  "issue_event_type_name": "issue_created",
+  "user": {
+    "self": "https://im.awing.vn/rest/api/2/user?username=phonglt",
+    "name": "phonglt",
+    "key": "phonglt",
+    "emailAddress": "phonglt@awing.vn",
+    "avatarUrls": {
+      "48x48": "https://im.awing.vn/secure/useravatar?ownerId=phonglt&avatarId=11101",
+      "24x24": "https://im.awing.vn/secure/useravatar?size=small&ownerId=phonglt&avatarId=11101",
+      "16x16": "https://im.awing.vn/secure/useravatar?size=xsmall&ownerId=phonglt&avatarId=11101",
+      "32x32": "https://im.awing.vn/secure/useravatar?size=medium&ownerId=phonglt&avatarId=11101"
+    },
+    "displayName": "Lê Thế Phong",
+    "active": true,
+    "timeZone": "Asia/Ho_Chi_Minh"
+  },
+  "issue": {
+    "id": "17321",
+    "self": "https://im.awing.vn/rest/api/2/issue/17321",
+    "key": "AWVN-203",
+    "fields": {
+      "issuetype": {
+        "self": "https://im.awing.vn/rest/api/2/issuetype/10001",
+        "id": "10001",
+        "description": "Created by Jira Software - do not edit or delete. Issue type for a user story.",
+        "iconUrl": "https://im.awing.vn/images/icons/issuetypes/story.svg",
+        "name": "Story",
+        "subtask": false
+      },
+      "components": [],
+      "timespent": null,
+      "timeoriginalestimate": null,
+      "description": "Test description",
+      "project": {
+        "self": "https://im.awing.vn/rest/api/2/project/11501",
+        "id": "11501",
+        "key": "AWVN",
+        "name": "AWING.VN",
+        "projectTypeKey": "software",
+        "avatarUrls": {
+          "48x48": "https://im.awing.vn/secure/projectavatar?avatarId=10324",
+          "24x24": "https://im.awing.vn/secure/projectavatar?size=small&avatarId=10324",
+          "16x16": "https://im.awing.vn/secure/projectavatar?size=xsmall&avatarId=10324",
+          "32x32": "https://im.awing.vn/secure/projectavatar?size=medium&avatarId=10324"
+        }
+      },
+      "fixVersions": [],
+      "aggregatetimespent": null,
+      "resolution": null,
+      "timetracking": {},
+      "customfield_10006": null,
+      "attachment": [],
+      "customfield_10009": "0|i00jen:",
+      "aggregatetimeestimate": null,
+      "resolutiondate": null,
+      "workratio": -1,
+      "summary": "Test summary",
+      "lastViewed": null,
+      "watches": {
+        "self": "https://im.awing.vn/rest/api/2/issue/AWVN-203/watchers",
+        "watchCount": 0,
+        "isWatching": false
+      },
+      "creator": {
+        "self": "https://im.awing.vn/rest/api/2/user?username=phonglt",
+        "name": "phonglt",
+        "key": "phonglt",
+        "emailAddress": "phonglt@awing.vn",
+        "avatarUrls": {
+          "48x48": "https://im.awing.vn/secure/useravatar?ownerId=phonglt&avatarId=11101",
+          "24x24": "https://im.awing.vn/secure/useravatar?size=small&ownerId=phonglt&avatarId=11101",
+          "16x16": "https://im.awing.vn/secure/useravatar?size=xsmall&ownerId=phonglt&avatarId=11101",
+          "32x32": "https://im.awing.vn/secure/useravatar?size=medium&ownerId=phonglt&avatarId=11101"
+        },
+        "displayName": "Lê Thế Phong",
+        "active": true,
+        "timeZone": "Asia/Ho_Chi_Minh"
+      },
+      "subtasks": [],
+      "created": "2020-03-04T18:26:04.276+0700",
+      "reporter": {
+        "self": "https://im.awing.vn/rest/api/2/user?username=phonglt",
+        "name": "phonglt",
+        "key": "phonglt",
+        "emailAddress": "phonglt@awing.vn",
+        "avatarUrls": {
+          "48x48": "https://im.awing.vn/secure/useravatar?ownerId=phonglt&avatarId=11101",
+          "24x24": "https://im.awing.vn/secure/useravatar?size=small&ownerId=phonglt&avatarId=11101",
+          "16x16": "https://im.awing.vn/secure/useravatar?size=xsmall&ownerId=phonglt&avatarId=11101",
+          "32x32": "https://im.awing.vn/secure/useravatar?size=medium&ownerId=phonglt&avatarId=11101"
+        },
+        "displayName": "Lê Thế Phong",
+        "active": true,
+        "timeZone": "Asia/Ho_Chi_Minh"
+      },
+      "customfield_10000": null,
+      "aggregateprogress": {
+        "progress": 0,
+        "total": 0
+      },
+      "priority": {
+        "self": "https://im.awing.vn/rest/api/2/priority/3",
+        "iconUrl": "https://im.awing.vn/images/icons/priorities/medium.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "customfield_10001": null,
+      "customfield_10002": null,
+      "customfield_10003": null,
+      "customfield_10300": "{}",
+      "labels": [],
+      "customfield_10004": null,
+      "environment": null,
+      "timeestimate": null,
+      "aggregatetimeoriginalestimate": null,
+      "versions": [],
+      "duedate": null,
+      "progress": {
+        "progress": 0,
+        "total": 0
+      },
+      "comment": {
+        "comments": [],
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "issuelinks": [],
+      "votes": {
+        "self": "https://im.awing.vn/rest/api/2/issue/AWVN-203/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "assignee": null,
+      "updated": "2020-03-04T18:26:04.276+0700",
+      "status": {
+        "self": "https://im.awing.vn/rest/api/2/status/10000",
+        "description": "",
+        "iconUrl": "https://im.awing.vn/",
+        "name": "To Do",
+        "id": "10000",
+        "statusCategory": {
+          "self": "https://im.awing.vn/rest/api/2/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  }
+}
