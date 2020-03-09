@@ -64,7 +64,7 @@ spec:
     spec:
       containers:
       - name: telegram
-        image: awingdev2020/aonbackend-web:$BUILD_NUMBER
+        image: awingdev2020/telegram:$BUILD_NUMBER
         env:
         volumeMounts:
         - mountPath: "/db"
