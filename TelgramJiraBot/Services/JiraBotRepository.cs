@@ -41,7 +41,7 @@ namespace TelegramJiraBot
         public void SetChatIdToProjectKey(ChatId chatId, string projectKey)
         {
             cache.Set(projectKey, chatId);
-            projects.Remove(projects.Where(x => x.ProjectKey == projectKey).FirstOrDefault());
+            projects.RemoveAll(x=>x.ProjectKey==projectKey);
             projects.Add(new Project { ChatId = chatId, ProjectKey = projectKey });
             System.IO.File.WriteAllText(filePath, JsonConvert.SerializeObject(projects));
         }        

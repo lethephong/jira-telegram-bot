@@ -45,9 +45,6 @@ namespace TelegramJiraBot
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
-            // TODO : Fix 
-            // Init singleton service.
-            //app.ApplicationServices.GetService<IJiraBotService>();
         }
     }
 }
